@@ -1,0 +1,50 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.Spotlight-V100
+.Trashes
+.VolumeIcon.icns
+.AppleDesktop
+
+# macOS cache files
+*.swp
+*.lock
+*.tmp
+*.bak
+*~
+
+# VSCode / IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Git backups from gh.sh
+*.bak-2*
+
+# Node/npm
+node_modules/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Logs
+*.log
+
+# Others
+*.orig
+*.rej
